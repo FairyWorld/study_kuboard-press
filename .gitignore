@@ -38,3 +38,4 @@ HELP.md
 __v3.md
 
 .pnpm-store
+.env
